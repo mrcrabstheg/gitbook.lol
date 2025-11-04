@@ -13,6 +13,7 @@
   * [Color Pickers](glass-api/methods/color-pickers.md)
   * [Dropdowns](glass-api/methods/dropdowns.md)
   * [Label](glass-api/methods/label.md)
+  * [Divider](glass-api/methods/divider.md)
 
 ## Help?
 

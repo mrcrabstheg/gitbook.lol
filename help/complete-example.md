@@ -19,6 +19,11 @@ AddToggle("feature_enabled", {
     end
 })
 
+AddDivider({
+    Text = "wow",
+    Tab = myTab,
+})
+
 -- Add a slider
 AddSlider("feature_speed", {
     Text = "Speed",
@@ -29,6 +34,10 @@ AddSlider("feature_speed", {
     Callback = function(value)
         print("Speed:", value)
     end
+})
+
+AddDivider({
+    Tab = myTab,
 })
 
 -- Add a color picker
