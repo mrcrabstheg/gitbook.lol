@@ -19,6 +19,7 @@ AddToggle("feature_enabled", {
     end
 })
 
+-- Add a Divider with text that will be shown in the middle
 AddDivider({
     Text = "wow",
     Tab = myTab,
@@ -36,6 +37,7 @@ AddSlider("feature_speed", {
     end
 })
 
+-- Add a Divider without any text in the middle just a line
 AddDivider({
     Tab = myTab,
 })
