@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Weclome](README.md)
+* [Welcome](README.md)
 
 ## glass api
 
