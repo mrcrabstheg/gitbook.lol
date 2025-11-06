@@ -14,6 +14,7 @@
   * [Dropdowns](glass-api/methods/dropdowns.md)
   * [Label](glass-api/methods/label.md)
   * [Divider](glass-api/methods/divider.md)
+  * [Key pickers](glass-api/methods/key-pickers.md)
 
 ## Help?
 
