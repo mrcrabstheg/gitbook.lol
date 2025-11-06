@@ -1,3 +1,7 @@
+---
+icon: keyboard
+---
+
 # Key pickers
 
 {% code lineNumbers="true" %}
